@@ -15,5 +15,4 @@ class article extends Model
     protected $table = "article";
 
     public  $timestamps = false;
-
 }
